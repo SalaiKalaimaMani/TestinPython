@@ -29,14 +29,27 @@
 # print("what is the value for " F"{demo}")
 
 # multiplication Program using Formatting
-tab = 12
-print(f"{tab} * 1 = {tab * 1}")
-print(f"{tab} * 2 = {tab * 2}")
-print(f"{tab} * 3 ={tab * 3}")
-print(f"{tab} * 4 ={tab * 4}")
-print(f"{tab} * 5 ={tab * 5}")
-print(f"{tab} * 6 ={tab * 6}")
-print(f"{tab} * 7 ={tab * 7}")
-print(f"{tab} * 8 ={tab * 8}")
-print(f"{tab} * 9 ={tab * 9}")
-print(f"{tab} * 10 = {tab * 10}")
+# tab = 12
+# print(f"{tab} * 1 = {tab * 1}")
+# print(f"{tab} * 2 = {tab * 2}")
+# print(f"{tab} * 3 ={tab * 3}")
+# print(f"{tab} * 4 ={tab * 4}")
+# print(f"{tab} * 5 ={tab * 5}")
+# print(f"{tab} * 6 ={tab * 6}")
+# print(f"{tab} * 7 ={tab * 7}")
+# print(f"{tab} * 8 ={tab * 8}")
+# print(f"{tab} * 9 ={tab * 9}")
+# print(f"{tab} * 10 = {tab * 10}")
+
+# getting user input doing multiplication
+val = int(input("Enter the Maultiplication Value :"))
+print(f"{val}*1 = {val * 1}")
+print(f"{val}*2 = {val * 2}")
+print(f"{val}*3 = {val * 3}")
+print(f"{val}*4 = {val * 4}")
+print(f"{val}*5 = {val * 5}")
+print(f"{val}*6 = {val * 6}")
+print(f"{val}*7 = {val * 7}")
+print(f"{val}*8 = {val * 8}")
+print(f"{val}*9= {val * 9}")
+print(f"{val}*10 = {val * 10}")
