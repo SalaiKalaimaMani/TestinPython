@@ -16,6 +16,7 @@
 # print (name)
 # print(type(name))
 
+# Task 2:
 # Num1 = int(input("Please enter the Value 1 :"))
 # Num2 = int(input("Please enter the Value 2 :"))
 # print("Addition ", Num1 + Num2)
@@ -41,6 +42,7 @@
 # print(f"{tab} * 9 ={tab * 9}")
 # print(f"{tab} * 10 = {tab * 10}")
 
+#Task 1 :
 # getting user input doing multiplication
 val = int(input("Enter the Maultiplication Value :"))
 print(f"{val}*1 = {val * 1}")
